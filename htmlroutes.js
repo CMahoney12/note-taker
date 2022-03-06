@@ -5,7 +5,7 @@ module.exports = function(app) {
     
     
     app.get("/notes", function(req,res) {
-        res.sendFile(path.join(__dirname, "/Users/chelsiemahoney/dev/note-taker/notes.html"));
+        res.sendFile(path.join(__dirname, "/Users/chelsiemahoney/dev/note-taker/index.html"));
     });
 
    // set index.html as default page
