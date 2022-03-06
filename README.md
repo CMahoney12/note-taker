@@ -25,7 +25,7 @@ WHEN I click on the Write icon in the navigation at the top of the page
 THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column
 
 ### Links
-Deployed link: https://cmahoney12.github.io/note-taker/notes.html
-Repository:  
+Deployed link: https://cmahoney12.github.io/note-taker/notes.html  
+Repository:  https://github.com/CMahoney12/note-taker  
 
 ### Screenshots: 
